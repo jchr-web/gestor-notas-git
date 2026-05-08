@@ -4,7 +4,7 @@ notas = []
 
 while True:
     print("\n--- GESTOR DE NOTAS ---")
-    print("1. Añadir nota")
+    print("1. Añadir una nota")
     print("2. Mostrar las notas")
     print("3. Eliminar nota")
     print("4. Salir")
